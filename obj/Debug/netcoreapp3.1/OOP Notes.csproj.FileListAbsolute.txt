@@ -1,0 +1,26 @@
+C:\Users\s\Google Drive\Projects\School\TechCareers\Notes\C#\OOP Notes\bin\Debug\netcoreapp3.1\OOP Notes.exe
+C:\Users\s\Google Drive\Projects\School\TechCareers\Notes\C#\OOP Notes\bin\Debug\netcoreapp3.1\OOP Notes.deps.json
+C:\Users\s\Google Drive\Projects\School\TechCareers\Notes\C#\OOP Notes\bin\Debug\netcoreapp3.1\OOP Notes.runtimeconfig.json
+C:\Users\s\Google Drive\Projects\School\TechCareers\Notes\C#\OOP Notes\bin\Debug\netcoreapp3.1\OOP Notes.runtimeconfig.dev.json
+C:\Users\s\Google Drive\Projects\School\TechCareers\Notes\C#\OOP Notes\bin\Debug\netcoreapp3.1\OOP Notes.dll
+C:\Users\s\Google Drive\Projects\School\TechCareers\Notes\C#\OOP Notes\bin\Debug\netcoreapp3.1\OOP Notes.pdb
+C:\Users\s\Google Drive\Projects\School\TechCareers\Notes\C#\OOP Notes\obj\Debug\netcoreapp3.1\OOP Notes.csprojAssemblyReference.cache
+C:\Users\s\Google Drive\Projects\School\TechCareers\Notes\C#\OOP Notes\obj\Debug\netcoreapp3.1\OOP Notes.csproj.CoreCompileInputs.cache
+C:\Users\s\Google Drive\Projects\School\TechCareers\Notes\C#\OOP Notes\obj\Debug\netcoreapp3.1\OOP Notes.AssemblyInfoInputs.cache
+C:\Users\s\Google Drive\Projects\School\TechCareers\Notes\C#\OOP Notes\obj\Debug\netcoreapp3.1\OOP Notes.AssemblyInfo.cs
+C:\Users\s\Google Drive\Projects\School\TechCareers\Notes\C#\OOP Notes\obj\Debug\netcoreapp3.1\OOP Notes.dll
+C:\Users\s\Google Drive\Projects\School\TechCareers\Notes\C#\OOP Notes\obj\Debug\netcoreapp3.1\OOP Notes.pdb
+C:\Users\s\Google Drive\Projects\School\TechCareers\Notes\C#\OOP Notes\obj\Debug\netcoreapp3.1\OOP Notes.genruntimeconfig.cache
+C:\Users\Step Laptop\Google Drive\Projects\School\TechCareers\Notes\C#\OOP Notes\bin\Debug\netcoreapp3.1\OOP Notes.exe
+C:\Users\Step Laptop\Google Drive\Projects\School\TechCareers\Notes\C#\OOP Notes\bin\Debug\netcoreapp3.1\OOP Notes.deps.json
+C:\Users\Step Laptop\Google Drive\Projects\School\TechCareers\Notes\C#\OOP Notes\bin\Debug\netcoreapp3.1\OOP Notes.runtimeconfig.json
+C:\Users\Step Laptop\Google Drive\Projects\School\TechCareers\Notes\C#\OOP Notes\bin\Debug\netcoreapp3.1\OOP Notes.runtimeconfig.dev.json
+C:\Users\Step Laptop\Google Drive\Projects\School\TechCareers\Notes\C#\OOP Notes\bin\Debug\netcoreapp3.1\OOP Notes.dll
+C:\Users\Step Laptop\Google Drive\Projects\School\TechCareers\Notes\C#\OOP Notes\bin\Debug\netcoreapp3.1\OOP Notes.pdb
+C:\Users\Step Laptop\Google Drive\Projects\School\TechCareers\Notes\C#\OOP Notes\obj\Debug\netcoreapp3.1\OOP Notes.csprojAssemblyReference.cache
+C:\Users\Step Laptop\Google Drive\Projects\School\TechCareers\Notes\C#\OOP Notes\obj\Debug\netcoreapp3.1\OOP Notes.csproj.CoreCompileInputs.cache
+C:\Users\Step Laptop\Google Drive\Projects\School\TechCareers\Notes\C#\OOP Notes\obj\Debug\netcoreapp3.1\OOP Notes.AssemblyInfoInputs.cache
+C:\Users\Step Laptop\Google Drive\Projects\School\TechCareers\Notes\C#\OOP Notes\obj\Debug\netcoreapp3.1\OOP Notes.AssemblyInfo.cs
+C:\Users\Step Laptop\Google Drive\Projects\School\TechCareers\Notes\C#\OOP Notes\obj\Debug\netcoreapp3.1\OOP Notes.dll
+C:\Users\Step Laptop\Google Drive\Projects\School\TechCareers\Notes\C#\OOP Notes\obj\Debug\netcoreapp3.1\OOP Notes.pdb
+C:\Users\Step Laptop\Google Drive\Projects\School\TechCareers\Notes\C#\OOP Notes\obj\Debug\netcoreapp3.1\OOP Notes.genruntimeconfig.cache
